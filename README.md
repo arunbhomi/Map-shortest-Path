@@ -10,6 +10,7 @@ JAVA
 Clone the project
 
 ```bash
+  git clone https://github.com/rabsss/Map-Shortest-Path
   git clone https://github.com/arunbhomi/Map-Shortest-Path
 ```
 
@@ -25,5 +26,5 @@ Install instellij
 
 ## Made By
 
-- [@rabsss](https://github.com/arunbhomi) 
-
+- [@rabsss](https://github.com/rabsss)
+- [@arunbhomi](https://github.com/arunbhomi)
